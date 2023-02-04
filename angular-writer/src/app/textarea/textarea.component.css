@@ -1,0 +1,14 @@
+.txtAreaDiv {
+   display: flex;
+   align-items: center;
+   justify-content: center; 
+}
+
+.txtAreaDiv #mainText {
+    width: 807px;
+    height: 500px;
+    font-size: 20px;
+    resize: none;
+    border: none;
+    outline: none;
+}

@@ -1,0 +1,20 @@
+.menuButton {
+    background-color: #3457D5;
+    border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+    border: white;
+    height: 2rem;
+    width: auto;
+}
+
+.menuButton:hover {
+    background-color: #002D62;
+    transition: 0.7s;
+}
+
+.toolbar {
+    height: 3rem;
+    width: auto;
+}
+.menu-icon {
+    color: white;
+}
